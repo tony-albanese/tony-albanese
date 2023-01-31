@@ -5,13 +5,17 @@ I have spent the last twenty years teaching Chemistry and Computer Science and a
 I am a student at Code Institute getting a qualification as a Full Stack Developer. I am loving every minute of it - even those minutes when I want to slam my laptop screen down in frustration.
 
 ### Current Project(s)
-Right now I am working on the basics of React and Django REST Api. I am building a test app that uses the New York Museum of Art's API to get art information and display it to a user which they can then select from to save to a database.
+I am currently working on my capstone project for Code Institute using React as a front end and Django REST Api as the backend. The site will offer those who love food as much as I do a chance to browse through and share their favorite recipes.
 
 ### Past Projects
 + A website in pure HTML and CSS to help IB Computer Science students master the Paper 3 exam.
 + A Rock, Paper, Scissors, Lizard, Spock! game in JavaScript and HTML
 + A thermodynamic calculator written in Python that allows you to query a dataset to calculate the enthalpy, free energy, and entropy change for chemical reaction.
 + A book blogging site using Django for readers to see and comment upon what other book lovers are reading. 
+
+|![Exam Hacker](assets/ci-project-shots/p1-mockup.jpeg)  |![Rock Paper Scissors Lizard Spock](assets/ci-project-shots/p2-mockup.jpeg) | ![Thermodynamic Caluclator](assets/ci-project-shots/p3-mockup.jpeg) |![BookShelf](assets/ci-project-shots/p4-mockup.jpeg)|
+|---|---|---|---|
+|[Exam Hacker](https://tony-albanese.github.io/ci-project-1/)|[Rock Paper Scissors Lizard Spock](https://tony-albanese.github.io/ci-project-2/game.html)|[Thermodynamic Calculator](https://tony-albanese.github.io/chem-calc-landing-page/)|[BookShelf](https://ci-project-4-bookshelf.herokuapp.com/accounts/login/)|
 
 ## Other Tech
 I love anything having to do with coding and some of the other technologies I enjoy working with are:
