@@ -25,7 +25,7 @@ I love anything having to do with coding and some of the other technologies I en
 + Python - The language that can do almost anything. Anyone who loves science and coding as much as I do just loves Python. It is the language for data analysis.
 
 
-## Other than coding ...
+## Not Just Coding...
 I love my computer. I really do. However, when I am not sitting in front of it I like spending my time doing things that enrich my life.
 
 + Reading - Science and math top the list but when I am in the mood for fiction (which is a lot), I love mysteries and historical fiction.
