@@ -13,10 +13,6 @@ I am currently working on my capstone project for Code Institute using React as 
 + A thermodynamic calculator written in Python that allows you to query a dataset to calculate the enthalpy, free energy, and entropy change for chemical reaction.
 + A book blogging site using Django for readers to see and comment upon what other book lovers are reading. 
 
-|[Exam Hacker](https://tony-albanese.github.io/ci-project-1/)|[Rock Paper Scissors Lizard Spock](https://tony-albanese.github.io/ci-project-2/game.html)|[Thermodynamic Calculator](https://tony-albanese.github.io/chem-calc-landing-page/)|[BookShelf](https://ci-project-4-bookshelf.herokuapp.com/accounts/login/)|
-|---|---|---|---|
-|![Exam Hacker](assets/ci-project-shots/p1-mockup.jpeg)  |![Rock Paper Scissors Lizard Spock](assets/ci-project-shots/p2-mockup.jpeg) | ![Thermodynamic Caluclator](assets/ci-project-shots/p3-mockup.jpeg) |![BookShelf](assets/ci-project-shots/p4-mockup.jpeg)|
-|![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)|
 
 ## Other Tech
 I love anything having to do with coding and some of the other technologies I enjoy working with are:
