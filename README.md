@@ -1,8 +1,8 @@
 # About Me
-I have spent the last twenty years teaching Chemistry and Computer Science and am now looking to change careers. Coding has been a hobby of mine and I want to do it professionally.
+Coding has been a hobby of mine and I want to do it professionally. I am switching careers from education to programming.
 
 ## Current Stuff
-I am a student at Code Institute getting a qualification as a Full Stack Developer. I am loving every minute of it - even those minutes when I want to slam my laptop screen down in frustration.
+I have just completed the intensive Full Stack Developer Program at Code Institute and am looking forward to starting my career in tech.
 
 ### Current Project(s)
 I am currently working on my capstone project for Code Institute using React as a front end and Django REST Api as the backend. The site will offer those who love food as much as I do a chance to browse through and share their favorite recipes.
