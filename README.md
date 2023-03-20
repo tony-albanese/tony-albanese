@@ -5,7 +5,7 @@ Coding has been a hobby of mine and I want to do it professionally. I am switchi
 I have just completed the intensive Full Stack Developer Program at Code Institute and am looking forward to starting my career in tech. I expect the final marks in a few weeks time.
 
 ### Current Project(s)
-I am currently taking a deeper dive into the technology I was exposed to during my training at Code Institute. In particular, I am looking into the more advanced features of Django including authorization and channels as well as the more advanced concepts of JavaScript and sharing what I have learned on [Codu](https://www.codu.co/). 
+I am currently taking a deeper dive into the technology I was exposed to during my training at Code Institute. In particular, I am looking into the more advanced features of Django including authorization and channels as well as the more advanced concepts of JavaScript and sharing what I have learned on [Codu](https://www.codu.co/). Further, I am researching how to to integrate ChatGPT-4 into some of my projects.
 
 ### Past Projects
 + A website in pure HTML and CSS to help IB Computer Science students master the Paper 3 exam.
